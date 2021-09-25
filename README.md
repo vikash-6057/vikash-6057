@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 [![Vikash's github stats](https://github-readme-stats.vercel.app/api?username=vikash-6057&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-6057&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/vikash-6057/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-6057&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/vikash-6057/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-6057&repo=convoychat" />
 </a>
